@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "titulo": "Primeira task",
+        "descricao": "Essa é a primeira task que criamos no projeto",
+        "completa": false
+    },
+    {
+        "id": 2,
+        "titulo": "Segunda task",
+        "descricao": "Essa é a degunda task que criamos no projeto",
+        "completa": false
+    },
+    {
+        "id": 3,
+        "titulo": "elaborar-aula",
+        "descricao": "criar scrip para aula de python",
+        "completa": false
+    },
+    {
+        "id": 4,
+        "titulo": "elaborar-aula",
+        "descricao": "criar scrip para aula de python",
+        "completa": false
+    },
+    {
+        "id": 5,
+        "titulo": "elaborar-aula",
+        "descricao": "criar scrip para aula de python",
+        "completa": false
+    },
+    {
+        "id": 6,
+        "titulo": "teste-close-friends",
+        "descricao": "task para close friends",
+        "completa": false
+    },
+    {
+        "id": 7,
+        "titulo": "teste-close-friends2",
+        "descricao": "task para close friends",
+        "completa": false
+    }
+]
